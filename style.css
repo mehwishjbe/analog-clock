@@ -35,3 +35,9 @@ body {
   z-index: 100000;
   border-radius: 50%;
 }
+
+.hour,
+.min,
+.sec {
+  position: absolute;
+}
