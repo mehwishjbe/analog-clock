@@ -30,4 +30,8 @@ body {
   position: absolute;
   width: 15px;
   height: 15px;
+  background: #84848484;
+  border: 2px solid #fff;
+  z-index: 100000;
+  border-radius: 50%;
 }
