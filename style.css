@@ -41,3 +41,8 @@ body {
 .sec {
   position: absolute;
 }
+
+.hour, .hr{
+    width: 160px;
+    height: 160px;
+}
