@@ -67,5 +67,11 @@ body {
   justify-content: center;
   position: absolute;
   border-radius: 50%;
-  
+}
+
+.hr::before {
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 80px;
 }
