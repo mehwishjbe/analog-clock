@@ -6,4 +6,6 @@ const sc = document.querySelector("#sc");
 
 setInterval(() => {
   let day = new Date();
+
+  let hh = day.getHours() * 30;
 });
