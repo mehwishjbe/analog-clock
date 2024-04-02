@@ -12,4 +12,5 @@ setInterval(() => {
   let ss = day.getSeconds() * deg;
 
   hr.style.transform = `rotateZ(${hh + mm / 12}deg)`;
+  mn.style.transform = `rotateZ(${mm}deg)`;
 });
