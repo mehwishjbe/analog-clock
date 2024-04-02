@@ -5,5 +5,5 @@ const mn = document.querySelector("#mn");
 const sc = document.querySelector("#sc");
 
 setInterval(() => {
-    
+  let day = new Date();
 });
